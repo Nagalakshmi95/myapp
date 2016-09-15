@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://github.com/Nagalakshmi95/hexo_static.git
+  repo:https://git.heroku.com/guarded-retreat-89401.git
   branch: master
 
