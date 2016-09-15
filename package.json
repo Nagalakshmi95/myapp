@@ -1,7 +1,8 @@
 {
   "name": "hexo-site",
   "version": "0.0.0",
-  "private": true,
+  "main": "server.js",
+  "scripts": "node server.js",
   "hexo": {
     "version": "3.2.2"
   },
@@ -19,8 +20,6 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
-  },
- "scripts": {
-  "start": "node index.js"
-}
+  }
+
 }
